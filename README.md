@@ -10,4 +10,4 @@ Tela desktop
 <br>
 
 Tela mobile
-<img src='https://github.com/marcoamlima/lista-tarefas/blob/main/mobile'>
+<img src='https://github.com/marcoamlima/lista-tarefas/blob/main/mobile.png'>
