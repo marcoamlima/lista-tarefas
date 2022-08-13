@@ -1,14 +1,15 @@
-Lista de tarefas criada com react 
-<br>
-Para execução do projeto: <strong>npm start </strong>
-<br>
-Versão do node: 16.16.0
-<br>
-Tela desktop
-<img src='https://github.com/marcoamlima/lista-tarefas/blob/main/desktop.png'>
+<p>Lista de tarefas criada com react;</p>
+<p>Para execução do projeto: <strong>npm start;</strong></p>
+<p>Versão do node: 16.16.0</p>
 
-<br>
-<br>
+<div>
+  <div>
+    <label>Tela desktop</label>
+    <img src='https://github.com/marcoamlima/lista-tarefas/blob/main/desktop.png'>
+  </div>
 
-Tela mobile
-<img src='https://github.com/marcoamlima/lista-tarefas/blob/main/mobile.png'>
+  <div>
+  <label>Tela mobile</label>
+  <img src='https://github.com/marcoamlima/lista-tarefas/blob/main/mobile.png'>
+  </div>
+</div>
